@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolStoreRestService", "ToolStoreRestService\ToolStoreRestService.csproj", "{FD4AF7D8-FF52-4090-BB44-284E6B286D66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolStoreRestServiceTests", "ToolStoreRestServiceTests\ToolStoreRestServiceTests.csproj", "{ECD128D5-BBF3-4A57-A2D0-CA64AF1A4569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD4AF7D8-FF52-4090-BB44-284E6B286D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD4AF7D8-FF52-4090-BB44-284E6B286D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD4AF7D8-FF52-4090-BB44-284E6B286D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD128D5-BBF3-4A57-A2D0-CA64AF1A4569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD128D5-BBF3-4A57-A2D0-CA64AF1A4569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD128D5-BBF3-4A57-A2D0-CA64AF1A4569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD128D5-BBF3-4A57-A2D0-CA64AF1A4569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
